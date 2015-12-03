@@ -7,7 +7,7 @@ package tp_medev_go;
 
 /**
  *
- * @author Yann CAMUS, Hicham DAHER, Victor ENAUD, Ken PLANAS, test
+ * @author Yann CAMUS, Hicham DAHER, Victor ENAUD, Ken PLANAS 
  */
 public class TP_MEDEV_Go {
 
